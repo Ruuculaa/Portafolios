@@ -464,7 +464,7 @@ hr{
 .street2 a {
 
     color: black;
-    border: 2px solid rgb(0, 0, 0);
+   border: black;
     padding: 4px;
     text-decoration: none;
     
@@ -870,10 +870,6 @@ footer{
 .redes_fo{
     
     width: 100%;
-}
-.section_redes{
-  
-    
 }
 
 
